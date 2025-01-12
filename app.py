@@ -1,5 +1,5 @@
 # Import necessary libraries
-from langchain_community.llms import HuggingFaceEndpoint  # Updated import for current LangChain version
+from langchain_huggingface import HuggingFaceEndpoint  # Updated import for current LangChain version
 from secret_api_keys import huggingface_api_key
 from langchain.prompts import PromptTemplate
 import os
@@ -17,7 +17,7 @@ os.environ['HUGGINGFACEHUB_API_TOKEN'] = huggingface_api_key
 
 # Initialize LLM
 def initialize_llm():
-    """Initialize the Hugging Face language model with specified parameters."""
+    """Initialize the Hugging Face language model w`ith specified parameters."""
     return HuggingFaceEndpoint(
         repo_id=HUGGINGFACE_MODEL_ID,
         temperature=TEMPERATURE,
