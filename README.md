@@ -121,8 +121,8 @@ Common issues and solutions:
 - Powered by [Hugging Face](https://huggingface.co/)
 - Interface created with [Streamlit](https://streamlit.io/)
 
-##  Local URL: http://localhost:8501
-##  Network URL: http://192.168.68.91:8501
+  ## Local URL: http://localhost:8502
+  ## Network URL: http://192.168.68.91:8502
 
 
 
