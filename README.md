@@ -132,12 +132,6 @@ Common issues and solutions:
 ![image](https://github.com/user-attachments/assets/2447811b-8e55-45c7-8ae1-fc42c8986eb9)
 
 
-
-
-![image](https://github.com/user-attachments/assets/096d590f-5a20-4b49-89b5-8a90077bada5)
-
-
-
 ![image](https://github.com/user-attachments/assets/d93b5a88-38a5-4865-b74f-abea547b7f0d)
 
 
