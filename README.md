@@ -23,7 +23,7 @@ Before running the application, ensure you have:
 
 1. Clone the repository:
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/soumikpaul006/AI-Blog-Generator-App.git
    cd ai-blog-generator
    ```
 
