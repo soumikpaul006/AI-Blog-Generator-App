@@ -126,17 +126,21 @@ Common issues and solutions:
 
 
 
-![image](https://github.com/user-attachments/assets/52b6779f-977a-4b07-8f09-66867f83af48)
+![image](https://github.com/user-attachments/assets/fcae30d9-3e7c-469a-9b26-be61417fa0e4)
 
 
-![image](https://github.com/user-attachments/assets/fd703fb1-0b45-46cc-b104-7ff558936a61)
+![image](https://github.com/user-attachments/assets/2447811b-8e55-45c7-8ae1-fc42c8986eb9)
 
-
-![image](https://github.com/user-attachments/assets/d30e4252-c133-49f8-bc52-5cbbacd21f75)
 
 
 
 ![image](https://github.com/user-attachments/assets/096d590f-5a20-4b49-89b5-8a90077bada5)
 
+
+
+![image](https://github.com/user-attachments/assets/d93b5a88-38a5-4865-b74f-abea547b7f0d)
+
+
+![image](https://github.com/user-attachments/assets/1d3935a3-5822-4801-bd67-196dcd68ec22)
 
 
